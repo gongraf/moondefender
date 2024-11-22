@@ -7,6 +7,15 @@ All the graphics were created by me using the old good Graphics Gale. I am not a
 ## Install
 Just clone or download the zip and double click on defend.html
 
+## Input
+1- Keyboard
+Move cannon with cursor keys (left-right)
+Fire with space bar
+Pause with "p"
+
+2- Gamepad
+Tested with xbox controller
+
 Contact: grafgonzalo@gmail.com
 
 <img width="314" alt="app-screenshot" src="https://github.com/user-attachments/assets/1b8f29c4-656f-40f8-ac76-fcbb74c82477">
